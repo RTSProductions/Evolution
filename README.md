@@ -1,3 +1,4 @@
+<img width="295" alt="Screen Shot 2021-05-11 at 5 45 20 PM" src="https://user-images.githubusercontent.com/77522246/117897737-a93f7b80-b280-11eb-908d-7dd689aac651.png">
 # Evolution
 An evolution simulation made with unity
 
@@ -98,6 +99,9 @@ Inspired by [Sebastian Lague's video on simulating an ecosystem](https://www.you
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
 
 ## Wild Boars
+
+<img width="311" alt="Screen Shot 2021-05-11 at 5 45 35 PM" src="https://user-images.githubusercontent.com/77522246/117897759-b2304d00-b280-11eb-80b9-905ce67949a0.png">
+
 
 `Diet`: `Foxes`, `Bears`, `Wolves`.
 
