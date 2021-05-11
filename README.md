@@ -1,4 +1,3 @@
-<img width="295" alt="Screen Shot 2021-05-11 at 5 45 20 PM" src="https://user-images.githubusercontent.com/77522246/117897737-a93f7b80-b280-11eb-908d-7dd689aac651.png">
 # Evolution
 An evolution simulation made with unity
 
