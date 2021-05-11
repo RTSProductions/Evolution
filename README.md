@@ -28,11 +28,17 @@ Inspired by [Sebastian Lague's video on simulating an ecosystem](https://www.you
   ## Bunnies
   <img width="282" alt="Screen Shot 2021-04-09 at 3 26 16 PM" src="https://user-images.githubusercontent.com/77522246/117894744-40550500-b27a-11eb-91a0-fa348661e94a.png">
 Diet: Plants
+
 Speed: 6
+
 Strength: 1
+
 Off Spring Amount: 2
+
 Vison Distance: 20
+
 Reperductive Urge: 0.3
+
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
 
  ## Foxes
@@ -40,11 +46,17 @@ Reperductive Urge: 0.3
 <img width="278" alt="Screen Shot 2021-05-11 at 5 05 43 PM" src="https://user-images.githubusercontent.com/77522246/117895208-22d46b00-b27b-11eb-8643-ac65a4a7fa48.png">
 
 Diet: Bunnies, Wolves, Wild Boars.
+
 Speed: 6
+
 Strength: 4
+
 Off Spring Amount: 1
+
 Vison Distance: 20
+
 Reperductive Urge: 0.2
+
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
 
  ## Bears
@@ -52,11 +64,17 @@ Reperductive Urge: 0.2
 <img width="254" alt="Screen Shot 2021-05-11 at 5 07 50 PM" src="https://user-images.githubusercontent.com/77522246/117895371-6cbd5100-b27b-11eb-861e-5ffc86b894d5.png">
 
 Diet: Plants, Bunnies, Foxes, Wolves, Wild Boars, and even bears if need be.
+
 Speed: 6
+
 Strength: 4
+
 Off Spring Amount: 1
+
 Vison Distance: 20
+
 Reperductive Urge: 0.2
+
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
 
 ## Wolves
@@ -65,21 +83,33 @@ Reperductive Urge: 0.2
 
 
 Diet: Bunnies, Foxes, Wild Boars and even Wolves if need be.
+
 Speed: 10
+
 Strength: 6
+
 Off Spring Amount: 2
+
 Vison Distance: 40
+
 Reperductive Urge: 0.2
+
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
 
 ## Wild Boars
 
 Diet: Foxes, Bears, Wolves.
+
 Speed: 6
+
 Strength: 7
+
 Off Spring Amount: 3
+
 Vison Distance: 20
+
 Reperductive Urge: 0.2
+
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
   
    </details>
