@@ -10,6 +10,6 @@ An evolution simulation made with unity
   
  This is an  evolution simulation made in unity with c# where populations can evolve and go extinct.
 
-Inspired by [Sebastian Lague's video on simulation an ecosystem](https://www.youtube.com/watch?v=r_It_X7v-1E&t=82s) And yes the bunny, fox, and plant models are made to look like the models he has because i had no idea how to make something diferent so i just remade them
+Inspired by [Sebastian Lague's video on simulation an ecosystem](https://www.youtube.com/watch?v=r_It_X7v-1E&t=0s) And yes the bunny, fox, and plant models are made to look like the models he has because i had no idea how to make something diferent so i just remade them
   
  </details>
