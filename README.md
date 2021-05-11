@@ -27,6 +27,7 @@ Inspired by [Sebastian Lague's video on simulating an ecosystem](https://www.you
   
   ## Bunnies
   <img width="282" alt="Screen Shot 2021-04-09 at 3 26 16 PM" src="https://user-images.githubusercontent.com/77522246/117894744-40550500-b27a-11eb-91a0-fa348661e94a.png">
+  
 Diet: Plants
 
 Speed: 6
