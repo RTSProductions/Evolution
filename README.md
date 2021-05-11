@@ -36,7 +36,6 @@ Reperductive Urge: 0.3
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
 
  ## Foxes
- <img width="254" alt="Screen Shot 2021-05-11 at 5 04 02 PM" src="https://user-images.githubusercontent.com/77522246/117895085-e6087400-b27a-11eb-9623-21e4b6b94ab7.png">
 
   <img width="282" alt="Screen Shot 2021-04-09 at 3 26 16 PM" src="https://user-images.githubusercontent.com/77522246/117894744-40550500-b27a-11eb-91a0-fa348661e94a.png">
 Diet: Plants
