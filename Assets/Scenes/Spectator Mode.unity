@@ -1348,7 +1348,7 @@ MonoBehaviour:
     population: 100
     prefab: {fileID: 6365907782055578564, guid: c1a85aca972174e5fad6e3274bb73a61, type: 3}
   - name: Fox
-    willSpawn: 0
+    willSpawn: 1
     population: 10
     prefab: {fileID: 5557670240177814934, guid: 05b062099802242bd93fcadc1df1a045, type: 3}
   - name: Bear
@@ -1359,7 +1359,7 @@ MonoBehaviour:
     willSpawn: 0
     population: 10
     prefab: {fileID: 7845569904706891385, guid: 79dcda03495b548afa3b3d83a6881a30, type: 3}
-  - name: Yellow Cube
+  - name: Wild Boar
     willSpawn: 0
     population: 5
     prefab: {fileID: 5557670240177814934, guid: 268d37711249c41c9a341bf66914d44d, type: 3}

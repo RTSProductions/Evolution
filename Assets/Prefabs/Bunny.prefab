@@ -67,11 +67,13 @@ MonoBehaviour:
   ground:
     serializedVersion: 2
     m_Bits: 2048
+  young: 0
   motherGenes:
     Diet: 0
     speed: 0
     strength: 0
     offSpringAmount: 0
+    criticalPercent: 0
     isMale: 0
     visonDistance: 0
     reperductiveUrge: 0
@@ -80,6 +82,7 @@ MonoBehaviour:
     speed: 0
     strength: 0
     offSpringAmount: 0
+    criticalPercent: 0
     isMale: 0
     visonDistance: 0
     reperductiveUrge: 0
@@ -88,7 +91,8 @@ MonoBehaviour:
     Diet: 1
     speed: 6
     strength: 1
-    offSpringAmount: 1
+    offSpringAmount: 2
+    criticalPercent: 0
     isMale: 0
     visonDistance: 20
     reperductiveUrge: 0.3
@@ -128,6 +132,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   species: 2
   amountRemaining: 1
+  growAmount: 0
 --- !u!54 &6365907782055578556
 Rigidbody:
   m_ObjectHideFlags: 0

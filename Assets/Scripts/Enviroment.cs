@@ -12,7 +12,7 @@ public class Enviroment : MonoBehaviour
 
     public Camera camera;
 
-    [Range(1, 100)]
+    [Range(0, 100)]
     public float timeScale = 1;
 
     public Animal[] animals;

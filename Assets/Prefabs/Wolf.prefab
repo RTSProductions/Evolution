@@ -73,6 +73,7 @@ MonoBehaviour:
     speed: 0
     strength: 0
     offSpringAmount: 0
+    criticalPercent: 0
     isMale: 0
     visonDistance: 0
     reperductiveUrge: 0
@@ -81,15 +82,17 @@ MonoBehaviour:
     speed: 0
     strength: 0
     offSpringAmount: 0
+    criticalPercent: 0
     isMale: 0
     visonDistance: 0
     reperductiveUrge: 0
   didInherit: 1
   genes:
-    Diet: 55
+    Diet: 54
     speed: 10
     strength: 6
     offSpringAmount: 2
+    criticalPercent: 0
     isMale: 0
     visonDistance: 40
     reperductiveUrge: 0.2
