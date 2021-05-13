@@ -11,6 +11,13 @@ An evolution simulation made with unity
  This is an  evolution simulation made in unity with c# where populations can evolve and go extinct.
 
 Inspired by [Sebastian Lague's video on simulating an ecosystem](https://www.youtube.com/watch?v=r_It_X7v-1E&t=0s) And yes the bunny, fox, and plant models are made to look like the models he has because i had no idea how to make something diferent so i just remade them
+
+## Animals
+
+  Currently there are 6 animal spices in total plants, bunnies, foxes, bears, woves, and wild boars.
+  
+## Hunger
+How does the hunger work? The hunger is a float that slowly counts up untill it hits 1. Once the hunger hits 1 then the animal dies.
   
  </details>
  
@@ -127,3 +134,29 @@ Inspired by [Sebastian Lague's video on simulating an ecosystem](https://www.you
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
   
    </details>
+   
+# Genes
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## `Critical Percent`
+First check out how the hunger works in **Info > Hunger**. Once the hunger is greater than or equal to the critical percent then the animal will stop looking for a mate or exploring and start looking for food.
+
+## `Reperductive Urge`
+First check out how the hunger works in **Info > Hunger**. If the hunger is less than the reperductive urge then they will look for a mate.
+
+## `Vison Distance`
+`Vison Distance` is the aimals vision distacne.
+
+## `Off Spring Amount`
+`Off Spring Amount` is the amount of cildren that the animal wil have when reperducing.
+
+## `Strength`
+`Strength` is the animals strength. If a preditor is trying to attack and this animal's strength is greator than the preditor's strength then they will kill the preditor.
+
+## `Speed`
+`Speed` is the movemnt speed of the animal.
+
+
+  
+  </details>
