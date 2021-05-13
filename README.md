@@ -40,6 +40,8 @@ Inspired by [Sebastian Lague's video on simulating an ecosystem](https://www.you
 
 `Reperductive Urge`: `0.3`
 
+`Critical Percent`: `0.5`
+
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
 
  ## Foxes
@@ -58,6 +60,8 @@ Inspired by [Sebastian Lague's video on simulating an ecosystem](https://www.you
 
 `Reperductive Urge`: `0.2`
 
+`Critical Percent`: `0.5`
+
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
 
  ## Bears
@@ -75,6 +79,8 @@ Inspired by [Sebastian Lague's video on simulating an ecosystem](https://www.you
 `Vison Distance`: `20`
 
 `Reperductive Urge`: `0.2`
+
+`Critical Percent`: `0.5`
 
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
 
@@ -95,6 +101,8 @@ Inspired by [Sebastian Lague's video on simulating an ecosystem](https://www.you
 
 `Reperductive Urge`: `0.2`
 
+`Critical Percent`: `0.5`
+
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
 
 ## Wild Boars
@@ -113,6 +121,8 @@ Inspired by [Sebastian Lague's video on simulating an ecosystem](https://www.you
 `Vison Distance`: `20`
 
 `Reperductive Urge`: `0.2`
+
+`Critical Percent`: `0.5`
 
 **Note that the all these variables can change over time when running the simulation but these are the starting variables.**
   
