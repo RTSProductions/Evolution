@@ -92,7 +92,7 @@ MonoBehaviour:
     speed: 6
     strength: 3
     offSpringAmount: 1
-    criticalPercent: 0
+    criticalPercent: 0.5
     isMale: 0
     visonDistance: 20
     reperductiveUrge: 0.2

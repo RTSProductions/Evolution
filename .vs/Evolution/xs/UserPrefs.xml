@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{3D4C3948-95AB-35D4-8403-2BDCFF7854FF}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enviroment.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Animal.cs">
     <Files>
-      <File FileName="Assets/Scripts/Enviroment.cs" Line="196" Column="16" IsPinned="True" />
+      <File FileName="Assets/Scripts/Enviroment.cs" Line="15" Column="13" IsPinned="True" />
+      <File FileName="Assets/Scripts/Animal.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Species.cs" />
-      <File FileName="Assets/Scripts/Animal.cs" />
       <File FileName="Assets/Scripts/FocusOnObject.cs" />
-      <File FileName="Assets/Scripts/Genes.cs" Line="319" Column="23" />
+      <File FileName="Assets/Scripts/Genes.cs" />
       <File FileName="Assets/Scripts/LiveEntety.cs" />
       <File FileName="Assets/Scripts/Memory.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="77cc6ce4-6095-497c-b16a-815958f80121" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d72fdd61-2415-4dfb-aa8f-a37ec90c7fc8" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
